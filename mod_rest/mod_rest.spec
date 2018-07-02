@@ -1,5 +1,5 @@
 author: "Nolan Eakins <sneakin at semanticgap.com>"
 category: "http"
 summary: "HTTP interface to POST stanzas into ejabberd"
-home: "https://github.com/processone/ejabberd-contrib/tree/master/"
-url: "git@github.com:processone/ejabberd-contrib.git"
+home: "https://github.com/tpphu/ejabberd-contrib/tree/master/"
+url: "git@github.com:tpphu/ejabberd-contrib.git"

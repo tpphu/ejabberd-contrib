@@ -1,5 +1,5 @@
 author: "Badlop <badlop at process-one.net>"
 category: "admin"
 summary: "Execute shell commands"
-home: "https://github.com/processone/ejabberd-contrib/tree/master/"
-url: "git@github.com:processone/ejabberd-contrib.git"
+home: "https://github.com/tpphu/ejabberd-contrib/tree/master/"
+url: "git@github.com:tpphu/ejabberd-contrib.git"

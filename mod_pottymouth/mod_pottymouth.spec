@@ -1,5 +1,5 @@
 author: "Tom Quackenbush <tom at madglory.com>"
 category: "data"
 summary: "Filter bad words in messages"
-home: "https://github.com/processone/ejabberd-contrib/tree/master/"
-url: "git@github.com:processone/ejabberd-contrib.git"
+home: "https://github.com/tpphu/ejabberd-contrib/tree/master/"
+url: "git@github.com:tpphu/ejabberd-contrib.git"

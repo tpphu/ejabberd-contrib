@@ -1,6 +1,6 @@
 # mod_post_log - Logs messages to an HTTP API
 
-*Homepage*: https://github.com/processone/ejabberd-contrib/tree/master/mod_post_log
+*Homepage*: https://github.com/tpphu/ejabberd-contrib/tree/master/mod_post_log
 *Author*: Tim Stewart, Mojo Lingo LLC
 *Requirements*: ejabberd 14.07 or later
 
